@@ -1,0 +1,3 @@
+Third-party assets (all CC0 1.0, Poly Haven - https://polyhaven.com)
+  soil_*.jpg : "Brown Mud 02"  (textures)
+  sky.hdr    : "Farm Field"    (HDRI)

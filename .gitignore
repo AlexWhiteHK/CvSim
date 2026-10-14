@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+sim/.cache/
+sim/web/assets/*.hdr
+sim/web/assets/*.jpg
